@@ -1,0 +1,13 @@
+﻿name: teledeteccion311
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  # Basic python depen
+  - python=3.11
+  - pip
+  # Spatial packages
+  - gdal
+  - hdf4
+  - pyqt
+# prefix: /home/xxxx/anaconda3/envs/teledeteccion311
