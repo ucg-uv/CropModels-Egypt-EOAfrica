@@ -63,7 +63,6 @@ If you encounter any issues or have questions regarding the process, please open
 ## Additional Notes
 
 - Ensure all data paths and dependencies are correctly set up in your environment before running the scripts.
-- This process assumes familiarity with Python programming and basic knowledge of remote sensing and agricultural science concepts.
 
 Thank you for using this crop classification and yield retrieval process. We hope it assists you in your research and data analysis efforts.
 
