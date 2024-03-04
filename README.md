@@ -19,6 +19,8 @@ pip install -r requirements.txt
 ## Usage
 
 The process is divided into multiple steps, each performed by a separate script. Follow these steps in order to classify crops and retrieve yield information:
+All the yield retrieval using optic and fusion (+SAR) data can be summarized in the code `main.py`.
+Also, every step from `main.py` can be executed by step. The steps are the following:
 
 1. **Download ERA5 Climate Data**
 ```
@@ -72,6 +74,7 @@ python plot_yieldgroups_DOY.py
  ```
  python model_fusion.py
  ```
+
 ## Support
 
 If you encounter any issues or have questions regarding the process, please open an issue in the repository.
