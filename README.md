@@ -56,10 +56,10 @@ python SAR_filter.py
 python plot_yieldgroups.py
 ```
 9. **Plot Parcels by Yield Groups with Day of Year (DOY)**
-10.  ```
+```
 python plot_yieldgroups_DOY.py
- ```
-11. **Assess Different Models**
+```
+10. **Assess Different Models**
  For wheat:
  ```
  python model_optic_wheat.py
