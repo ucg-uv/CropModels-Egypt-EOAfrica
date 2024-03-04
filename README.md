@@ -4,8 +4,8 @@ Models for Crop type mapping and yield retrieval for wheat and rice in Nile Delt
 ## Prerequisites
 
 Before running these scripts, ensure you have the following installed:
-- Python 3.11
-- Anaconda
+- [Anaconda](https://www.anaconda.com/download)/[Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+- [Python 3.11](https://docs.python.org/es/3.11/). (Included in conda)
 
 ## Installation
 
